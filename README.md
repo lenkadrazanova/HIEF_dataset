@@ -43,7 +43,9 @@ Create a folder containing the original dataset
 mkdir data
 ```
 
-Copy inside this folder the original xlsx dataset file. Make sure that it is named as "ethnic fractionalization - original.xlsx" or, otherwise, that you rename the "filename" variable in the script main.py accordingly. You should have this file inside the data folder
+Copy inside this folder the original xlsx dataset file. The dataset file is available from XXXXXXXXXXXXXX
+Name this file as "ethnic fractionalization - original.xlsx" or, otherwise, rename the "filename" variable in the script main.py accordingly. 
+Make sure this file is inside the data folder you just created
 ```
 data\ethnic fractionalization - original.xlsx
 ```
