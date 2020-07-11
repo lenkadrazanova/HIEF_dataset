@@ -61,9 +61,9 @@ The script creates a new folder "results" containing the HIEF dataset, three add
 Pearsons correlation between original and sigma_1: 0.982
 Pearsons correlation between original and sigma_2: 0.974
 Pearsons correlation between original and smaller: 1.000
-Paired t-test original vs sigma1:  Ttest_indResult(statistic=-0.18606227308299908, pvalue=0.8523980751762262)
-Paired t-test original vs sigma2:  Ttest_indResult(statistic=-1.41149232199664, pvalue=0.1581172077171192)
-Paired t-test original vs smaller:  Ttest_indResult(statistic=-0.06286910218215389, pvalue=0.9498714542734937)
+T-test original vs sigma1:  Ttest_indResult(statistic=-0.18606227308299908, pvalue=0.8523980751762262)
+T-test original vs sigma2:  Ttest_indResult(statistic=-1.41149232199664, pvalue=0.1581172077171192)
+T-test original vs smaller:  Ttest_indResult(statistic=-0.06286910218215389, pvalue=0.9498714542734937)
 ```
 
 # Citations and contacts
