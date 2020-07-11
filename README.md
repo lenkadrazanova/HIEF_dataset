@@ -64,10 +64,13 @@ Paired t-test original vs sigma2:  Ttest_indResult(statistic=-1.41149232199664, 
 Paired t-test original vs smaller:  Ttest_indResult(statistic=-0.06286910218215389, pvalue=0.9498714542734937)
 ```
 
-# Disclaimer
-The scripts in this repository have been created by Lenka Drazanova and are licensed under a GNU GPL-4 License.
+# Citations and contacts
 
 Please cite this work as:
 
+Please forward your comments and questions to lenka.drazanova@eui.eu
+
+# Disclaimer
+The scripts in this repository have been created by Lenka Drazanova and are licensed under a GNU GPL v3 License.
 
 In no case shall the authors of this work be liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation lost profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages, whether based in contract, tort (including negligence), strict liability or otherwise, arising from your use of any of the models and the material provided here, or for any other claim related in any way to your use of the models and the material provided here, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the models and the material provided. Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, our liability shall be limited to the maximum extent permitted by law.
