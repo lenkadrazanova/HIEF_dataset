@@ -1,6 +1,6 @@
 # HIEF_dataset
 
-This script creates the Historical Index of Ethnic Fractionalization from the XXXXX dataset
+This script creates the Historical Index of Ethnic Fractionalization (HIEF) dataset from the Composition of Religious and Ethnic Groups (CREG) Project data
 
 ## Pre-requisites (Windows)
 
@@ -43,7 +43,7 @@ Create a folder containing the original dataset
 mkdir data
 ```
 
-Copy inside this folder the original xlsx dataset file. The dataset file is available from XXXXXXXXXXXXXX
+Copy inside this folder the original csv dataset file. The dataset file is available from https://uofi.app.box.com/s/ien7v6e2y7tzzy6t7nljkqb1ge2uww6n
 Name this file as "ethnic fractionalization - original.xlsx" or, otherwise, rename the "filename" variable in the script main.py accordingly. 
 Make sure this file is inside the data folder you just created
 ```
