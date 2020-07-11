@@ -145,13 +145,13 @@ def do_plots(original, sigma_1, sigma_2, smaller):
 
     # t-tests
     res1 = stats.ttest_ind(original[:,2], sigma_1[:,2])
-    print ('Paired t-test original vs sigma1: ', res1)
+    print ('T-test original vs sigma1: ', res1)
 
     res2 = stats.ttest_ind(original[:,2], sigma_2[:,2])
-    print ('Paired t-test original vs sigma2: ', res2)
+    print ('T-test original vs sigma2: ', res2)
 
     res3 = stats.ttest_ind(original[:,2], smaller[:,2])
-    print ('Paired t-test original vs smaller: ', res3)
+    print ('T-test original vs smaller: ', res3)
 
 if __name__ =="__main__":
     # remember indentations!
