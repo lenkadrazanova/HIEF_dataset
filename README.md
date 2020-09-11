@@ -68,7 +68,7 @@ T-test original vs smaller:  Ttest_indResult(statistic=-0.06286910218215389, pva
 
 # Citations and contacts
 
-Please cite this work as:
+Please cite this work as: Drazanova L 2020 Introducing the Historical Index of Ethnic Fractionalization (HIEF) Dataset: Accounting for Longitudinal Changes in Ethnic Diversity. Journal of Open Humanities Data, 6: 6. DOI: https://doi.org/10.5334/johd.16
 
 Please forward your comments and questions to lenka.drazanova@eui.eu
 
